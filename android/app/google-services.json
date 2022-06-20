@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831272423260",
+    "project_id": "appins-5dd14",
+    "storage_bucket": "appins-5dd14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831272423260:android:afa0bcab13f986a58d7b99",
+        "android_client_info": {
+          "package_name": "com.example.appins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831272423260-p7lqeoa1bcga85uvfihbtu71mcue2af2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-f7LDIH707h3L6c_STl6cx1hNxAfoIfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831272423260-p7lqeoa1bcga85uvfihbtu71mcue2af2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
